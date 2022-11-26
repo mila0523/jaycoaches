@@ -1,0 +1,29 @@
+#welcome h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+#welcome{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.goldenjc{
+    background-color: #C09F52;
+}
+
+.bg-goldenjc{
+    background-color: #C09F52;
+}
+
+.brownjc{
+    color: #AE462D;
+}
+
+.btn-bg-goldenjc:hover{
+    background: #dabf81;
+    color: rgb(0, 0, 0);
+    transition: ease-in 0.2s;
+}
