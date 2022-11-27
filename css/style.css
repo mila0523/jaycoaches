@@ -11,11 +11,11 @@
 }
 
 .goldenjc{
-    background-color: #C09F52;
+    background-color: #bd934c;
 }
 
 .bg-goldenjc{
-    background-color: #C09F52;
+    background-color: #bd934c;
 }
 
 .brownjc{
@@ -23,7 +23,7 @@
 }
 
 .btn-bg-goldenjc:hover{
-    background: #dabf81;
+    background: #bd934c;
     color: rgb(0, 0, 0);
     transition: ease-in 0.2s;
 }
